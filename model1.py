@@ -8,6 +8,7 @@ import chainlit as cl
 from ingest import create_vector_db
  
  
+ # tests version--- NOT WORKING (chat_data)
  # Exemplo de dados do chat
 chat_data = [
     {"question": "Qual é o horário de funcionamento?", "answer": "Estamos abertos das 9h às 18h de segunda a sexta."},
